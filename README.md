@@ -32,5 +32,6 @@ V4L2 (Video4Linux)
 Astra Linux 
 Другие Linux-дистрибутивы с поддержкой V4L2
 
-This repository contains release packages for TEKO Visualizer.
-Source code is not published here.
+Этот репозиторий содержит готовые пакеты для установки TEKO Visualizer.
+
+Исходный код программы в данном репозитории не публикуется.
